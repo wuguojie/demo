@@ -1,0 +1,1220 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>web前端工程师简历</title>
+    <meta name="keywords" content="web前端，F2E，web前端个人简历，前端开发">
+    <meta name="description" content="肖梦刚的web前端工程师个人简历">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/cssReset.css" >
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="iconfont/iconfont.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<div id="zhe" >
+    <img src="img/loadinfo.net-1.gif" alt="">
+</div>
+<div class="bg bg1"></div>
+</div><div class="bg bg2">
+</div><div class="bg bg3">
+</div><div class="bg bg4">
+</div><div class="bg bg5"></div>
+<div class="wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-3 person">
+                        <div class="row">
+                            <div class="personPic col-lg-12 col-md-12 col-sm-3 col-xs-12">
+                                    <div class="personPicBox">
+                                        <img src="img/upleft.png" alt="">
+                                    </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-9 col-xs-12">
+                                <div class="name">
+                                    <h1>肖梦刚</h1>
+                                    <h3>一名前端工程师</h3>
+                                    <h5><span class="iconfont icon-dizhi"></span>中国北京</h5>
+                                </div>
+                                <div class="self-introduction">
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac risus nibh. Donec adipiscing luctus tur
+                                    </p>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing eli
+                                    </p>
+                                </div>
+                                <div class="contact">
+                                    <h6>My Social Profiles</h6>
+                                    <a href="javascript:;" class="iconfont icon-QQ"></a>
+                                    <a href="javascript:;" class="iconfont icon-weixin"></a>
+                                    <a href="javascript:;" class="iconfont icon-youxiang"></a>
+                                    <a href="javascript:;" class="iconfont icon-phone"></a>
+                                    <a href="javascript:;" class="iconfont icon-dizhi"></a>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-9 mian">
+                        <div class="boxsWrap">
+                            <div class="innerbox animated bounceIn innerbox1 ">
+                                <div class="innerboxmianOne">
+                                    <h1>简介 - 关于我们</h1>
+                                    <div class="col-md-6">
+                                        <div class="title">
+                                            <div class="text">棕色史密斯</div>
+                                        </div>
+                                        <ul class="about">
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-user"></i>
+                                                <label>命名</label>
+                                                <span class="value">布朗史密斯</span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-calendar"></i>
+                                                <label>出生日期</label>
+                                                <span class="value">1988年3月18日</span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-map-marker"></i>
+                                                <label>ADRESS </label>
+                                                <span class="value">旧金山</span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-envelope"></i>
+                                                <label>电子邮件</label>
+                                                <span class="value">brown.smith@gmail.com</span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-phone"></i>
+                                                <label>电话</label>
+                                                <span class="value">+123（21）1234-5678</span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                            <li>
+                                                <i class="glyphicon glyphicon-globe"></i>
+                                                <label>网站</label>
+                                                <span class="value"><a href="javascript:;" target="_blank">www.brown-smith.com</a></span>
+                                                <div class="clear"></div>
+                                            </li>
+
+                                        </ul>
+                                        <p style="margin-bottom:20px">
+
+                                          ouihdajdasj收到回复的空间适当防护设计大方还是看就打凤凰科技时代反击阿斯顿口服毫克
+                                        </p>
+                                        <p style="margin-bottom:20px">
+                                            ouihdajdasj收到回复的空间适当防护设计大方还是看就打凤凰科技时代反击阿斯顿口服毫克
+                                            ouihdajdasj收到回复的空间适当防护设计大方还是看就打凤凰科技时代反击阿斯顿口服毫克
+
+
+                                        </p>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="showPIc">
+                                            <img src="img/about_1.jpg" alt=""/>
+                                            <img src="img/about_2.png" alt=""/>
+                                            <img src="img/about_2.png" alt=""/>
+                                        </div>
+
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="title">
+                                                <div class="text">我的服务1</div>
+                                                <div class="clear"></div>
+                                                <div class="col-md-4 pack-service">
+                                                    <div class="service">
+                                                        <div class="tubiao">
+                                                            <i class="iconfont icon-bi"></i></div>
+                                                        <div class="serviceDatail">
+                                                            <h6>赚钱</h6>
+                                                            <p>Fusce QUIS interdum ipsum.Suspendi suscipit vehicula sapienid马蒂斯。Lorem存有阿梅德consectetur。</p>
+                                                        </div>
+                                                    </div>
+                                                </div> <div class="col-md-4 pack-service">
+                                                    <div class="service">
+                                                        <div class="tubiao">
+                                                            <i class="iconfont icon-bi"></i></div>
+                                                        <div class="serviceDatail">
+                                                            <h6>赚钱</h6>
+                                                            <p>Fusce QUIS interdum ipsum.Suspendi suscipit vehicula sapienid马蒂斯。Lorem存有阿梅德consectetur。</p>
+                                                        </div>
+                                                    </div>
+                                                </div> <div class="col-md-4 pack-service">
+                                                    <div class="service">
+                                                        <div class="tubiao">
+                                                            <i class="iconfont icon-bi"></i></div>
+                                                        <div class="serviceDatail">
+                                                            <h6>赚钱</h6>
+                                                            <p>Fusce QUIS interdum ipsum.Suspendi suscipit vehicula sapienid马蒂斯。Lorem存有阿梅德consectetur。</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div class="border-list"></div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="bottom-p">
+                                                <div class="title">
+                                                    <div class="text">我的服务2</div>
+                                                    <div class="clear"></div>
+                                                </div>
+
+                                                <div class="panel-group" id="accordion">
+                                                    <div class="panel panel-default">
+                                                        <div class="panel-heading">
+                                                            <h4 class="panel-title">
+                                                                <a data-toggle="collapse" data-parent="#accordion" href="javascript:;" class="collapse_tabs">
+                                                                    赚钱
+                                                                <i class="glyphicon glyphicon-chevron-up" style="float: right;font-size: 13px;"></i>
+                                                                </a>
+                                                            </h4>
+                                                        </div>
+                                                        <div id="collapseOne" class="panel-collapse in content" >
+                                                            <div class="panel-body">
+                                                                <i class="fa fa-quote-left"></i>  动画pariatur陈词滥调reprehenderit，enim eiusmod高寿命accusamus特里·理查森广告鱿鱼。3月亮狼奥特正式开通了，非cupidatat滑板悲早午餐。食品的卡车藜nesciunt laborum eiusmod。早午餐3月亮狼tempor，必须遵守aliqua把一只鸟就可以了鱿鱼单品咖啡法无assumenda肖尔迪奇等。虚无动画阿拉伯头巾黑体，精酿啤酒labore韦斯·安德森名气nesciunt sapiente EA proident。广告素食主义者excepteur屠夫副LOMO。护腿occaecat精酿啤酒农场到餐桌，原始牛仔的审美合成nesciunt你可能没有听说过他们accusamus labore可持续VHS。
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="panel panel-default">
+                                                        <div class="panel-heading">
+                                                            <h4 class="panel-title">
+                                                                <a data-toggle="collapse" data-parent="#accordion" href="javascript:;" class="collapse_tabs collapsed">
+                                                                    易于定制
+                                                                <i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i>
+                                                                </a>
+                                                            </h4>
+                                                        </div>
+                                                        <div id="collapseTwo" class="panel-collapse collapse content">
+                                                            <div class="panel-body">
+                                                                <i class="fa fa-quote-left"></i>  动画pariatur陈词滥调reprehenderit，enim eiusmod高寿命accusamus特里·理查森广告鱿鱼。3月亮狼奥特正式开通了，非cupidatat滑板悲早午餐。食品的卡车藜nesciunt laborum eiusmod。早午餐3月亮狼tempor，必须遵守aliqua把一只鸟就可以了鱿鱼单品咖啡法无assumenda肖尔迪奇等。虚无动画阿拉伯头巾黑体，精酿啤酒labore韦斯·安德森名气nesciunt sapiente EA proident。广告素食主义者excepteur屠夫副LOMO。护腿occaecat精酿啤酒农场到餐桌，原始牛仔的审美合成nesciunt你可能没有听说过他们accusamus labore可持续VHS。
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="panel panel-default">
+                                                        <div class="panel-heading">
+                                                            <h4 class="panel-title">
+                                                                <a data-toggle="collapse" data-parent="#accordion" href="javascript:;" class="collapse_tabs collapsed">
+                                                                    运动让我们帮助
+                                                                <i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i>
+                                                                </a>
+                                                            </h4>
+                                                        </div>
+                                                        <div id="collapseThree "  class="panel-collapse collapse content">
+                                                            <div class="panel-body">
+                                                                <i class="fa fa-quote-left"></i>  动画pariatur陈词滥调reprehenderit，enim eiusmod高寿命accusamus特里·理查森广告鱿鱼。3月亮狼奥特正式开通了，非cupidatat滑板悲早午餐。食品的卡车藜nesciunt laborum eiusmod。早午餐3月亮狼tempor，必须遵守aliqua把一只鸟就可以了鱿鱼单品咖啡法无assumenda肖尔迪奇等。虚无动画阿拉伯头巾黑体，精酿啤酒labore韦斯·安德森名气nesciunt sapiente EA proident。广告素食主义者excepteur屠夫副LOMO。护腿occaecat精酿啤酒农场到餐桌，原始牛仔的审美合成nesciunt你可能没有听说过他们accusamus labore可持续VHS。
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="innerbox animated bounceIn innerbox2 ">
+                                <div class="innnerbox2inner">
+                                    <h1>简历信息</h1>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+                                            </div>
+                                            <div class="skill">
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu" data-jindu="95%">
+
+                                                    </div>
+                                                    <div class="jindutrue"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu"  data-jindu="90%">
+
+                                                    </div>
+                                                    <div class="jindutrue " style="width:30%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="65%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap" >
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="35%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                            </div>
+                                            </div>
+
+                                            <div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <div class="skill">
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu" data-jindu="95%">
+
+                                                    </div>
+                                                    <div class="jindutrue"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu"  data-jindu="90%">
+
+                                                    </div>
+                                                    <div class="jindutrue " style="width:30%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="65%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap" >
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="35%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                            <div class="text">
+                                                设计技巧
+
+                                            </div>
+
+                                        </div>
+                                            <div class="skill">
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title" >potoshop</div>
+                                                    <div class="jindu" data-jindu="95%">
+
+                                                    </div>
+                                                    <div class="jindutrue" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu"  data-jindu="90%">
+
+                                                    </div>
+                                                    <div class="jindutrue " style="width:30%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="65%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap" >
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu " data-jindu="35%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                            </div><div class="content">
+                                            <div class="text">
+                                                设计技巧
+
+                                            </div>
+
+                                        </div>
+                                            <div class="skill">
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu" data-jindu="95%">
+
+                                                    </div>
+                                                    <div class="jindutrue"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu"  data-jindu="90%">
+
+                                                    </div>
+                                                    <div class="jindutrue " style="width:30%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu "  data-jindu="65%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap" >
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu " data-jindu="35%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                            </div><div class="content">
+                                            <div class="text">
+                                                设计技巧
+
+                                            </div>
+
+                                        </div>
+                                            <div class="skill">
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu" data-jindu="95%">
+
+                                                    </div>
+                                                    <div class="jindutrue"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu" data-jindu="90%">
+
+                                                    </div>
+                                                    <div class="jindutrue " style="width:30%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap">
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu " data-jindu="65%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;"></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                                <div class="jinduWrap" >
+                                                    <div class="jindu-title">potoshop</div>
+                                                    <div class="jindu"  data-jindu="35%">
+
+                                                    </div>
+                                                    <div class="jindutrue" style="width:20%;" ></div>
+                                                    <div class="jindunum">
+                                                        95%
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <div class="load">
+                                                <span> 下载我的名片</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p> <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p><div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p> <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p><div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p> <h5>
+                                                Web Developer
+                                                <span>
+                                                    <i class="iconfont icon-shengri"></i>
+                                                    2010-20113
+                                                </span>
+                                            </h5>
+                                            <h6>
+                                                <span class="iconfont icon-jineng"></span>
+                                                Name of Company
+                                            </h6>
+                                            <p>
+                                                Lorem ipsum dolor sit amet, consectetur adipiscingVivamus sit amet ligula non lectus cursus egestas. Cras erat lorem, fringilla quis sagittis in, sagittis inNam leo tortor Nam leo tortor Vivamus.
+                                            </p>
+                                        </div>
+
+                                    </div>
+                                    <div class="row innerbox2Btm">
+                                        <div class="col-md-12">
+                                            <div class="content">
+                                                <div class="text">
+                                                    设计技巧
+
+                                                </div>
+
+                                            </div>
+                                            <ul>
+                                                <li>
+                                                    <img src="img/-text.png" alt="">
+                                                    <p>
+                                                        “许多桌面排版软体，和网页编辑器现在使用Lorem存有作为其默认将示范文本，和一个'Lorem存有”希望一个搜索仍然发现许多网站“
+                                                    </p>
+                                                        <span>
+                                                            李四，UX设计师
+                                                        </span>
+                                                </li>
+                                                <li>
+                                                    <img src="img/-text.png" alt="">
+                                                    <p>
+                                                        “许多桌面排版软体，和网页编辑器现在使用Lorem存有作为其默认将示范文本，和一个'Lorem存有”希望一个搜索仍然发现许多网站“
+                                                    </p>
+                                                        <span>
+                                                            李四，UX设计师
+                                                        </span>
+                                                </li>
+                                                <li>
+                                                    <img src="img/-text.png" alt="">
+                                                    <p>
+                                                        “许多桌面排版软体，和网页编辑器现在使用Lorem存有作为其默认将示范文本，和一个'Lorem存有”希望一个搜索仍然发现许多网站“
+                                                    </p>
+                                                        <span>
+                                                            李四，UX设计师
+                                                        </span>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="innerbox animated bounceIn innerbox3 ">
+                                <div class="innerbox3inner">
+                                    <h1>我的作品—组合</h1>
+                                    <ul>
+                                        <li><span>所有</span></li>
+                                        <li><span>网页设计</span></li>
+                                        <li><span>平面设计</span></li>
+                                        <li><span>动态影像</span></li>
+                                        <li><span>商标</span></li>
+                                    </ul>
+                                    <div class="innerbox3Mian animated">
+                                            <div class="innerbox3Pic">
+                                                <div class="mask">
+                                                        <h2>
+                                                            项目-
+                                                        </h2>
+                                                    <p>美好的夜晚和你共享
+                                                        </p>
+                                                    <a href="#" class="iconfont icon-shoucang">
+                                                       </a>
+                                                </div>
+                                                <img src="img/1.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/2.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/3.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/4.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/5.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/6.jpg" alt="">
+                                            </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                                <img src="img/7.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/8.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/9.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/10.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/11.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/12.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/13.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/14.jpg" alt="">
+                                            </div> <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                                <img src="img/15.jpg" alt="">
+                                            </div>
+                                    </div>
+                                    <div class="innerbox3Mian animated">
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/2.jpg" alt="">
+                                        </div><div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/3.jpg" alt="">
+                                        </div><div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/5.jpg" alt="">
+                                        </div><div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/9.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="innerbox3Mian animated">
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/7.jpg" alt="">
+                                        </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/10.jpg" alt="">
+                                    </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/13.jpg" alt="">
+                                    </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/15.jpg" alt="">
+                                    </div>
+                                    </div>
+                                    <div class="innerbox3Mian animated">
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/4.jpg" alt="">
+                                        </div><div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/6.jpg" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="innerbox3Mian animated">
+                                        <div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/1.jpg" alt="">
+                                    </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/8.jpg" alt="">
+                                    </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/11.jpg" alt="">
+                                    </div><div class="innerbox3Pic">
+                                        <div class="mask">
+                                            <h2>
+                                                项目-
+                                            </h2>
+                                            <p>美好的夜晚和你共享
+                                            </p>
+                                            <a href="#" class="iconfont icon-shoucang">
+                                            </a>
+                                        </div>
+                                        <img src="img/12.jpg" alt="">
+                                    </div>
+                                        <div class="innerbox3Pic">
+                                            <div class="mask">
+                                                <h2>
+                                                    项目-
+                                                </h2>
+                                                <p>美好的夜晚和你共享
+                                                </p>
+                                                <a href="#" class="iconfont icon-shoucang">
+                                                </a>
+                                            </div>
+                                            <img src="img/14.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                                  <div class="innerbox animated bounceIn innerbox4">
+                            <div class="innerbox4inner">
+                                <h1>
+                                    博客 - 我的博客
+                                </h1>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="row">
+
+                                            <div class="col-md-12 medie">
+
+                                                <div class="fang ">
+                                                    <span class="iconfont icon-tupian">
+                                                    </span>
+                                                </div>
+                                                <div class="mediaMian">
+                                                    <div class="swiper-container  swiper-container2">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="swiper-slide lwc-imghandle" >
+                                                                <img src="img/blog-1.jpg" alt="">
+                                                            </div>
+                                                            <div class="swiper-slide lwc-imghandle" >
+                                                                <img src="img/blog-2.jpg" alt="">
+                                                            </div>
+                                                            <div class="swiper-slide lwc-imghandle" >
+                                                                <img src="img/blog-3.jpg" alt="">
+                                                            </div>
+                                                        </div>
+                                                        <div class="swiper-button-prev swiper-button-white"></div>
+                                                        <div class="swiper-button-next swiper-button-white"></div>
+                                                        <div class="swiper-pagination swiper-p2"></div>
+                                                    </div>
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+
+                                                    </div>
+                                                    <ul class="info">
+                                                        <li><i class="iconfont icon-youxiang"></i>2 Comments</li>
+                                                        <li><i class="iconfont icon-shengri"></i>January 31, 2014</li>
+                                                        <li><i class="iconfont icon-shoucang"></i>by Jane Doe</li>
+                                                        <li><i class="iconfont icon-shezhi"></i>jquery, slider, web design</li>
+                                                    </ul>
+                                                    <div class="innerbox4content">
+                                                        <p>     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo...   </p>
+                                                    </div>
+                                                    <a href="#" class="morea pull-right">
+                                                        Read More
+                                                    </a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="row">
+
+                                            <div class="col-md-12 medie medie2">
+                                                <div class="fang fang2">
+                                                    <span class="iconfont icon-tupian">
+                                                    </span>
+                                                </div>
+                                                <div class="mianmedie">
+
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+
+                                                    </div>
+                                                    <ul class="info">
+                                                        <li><i class="iconfont icon-youxiang"></i>2 Comments</li>
+                                                        <li><i class="iconfont icon-shengri"></i>January 31, 2014</li>
+                                                        <li><i class="iconfont icon-shoucang"></i>by Jane Doe</li>
+                                                        <li><i class="iconfont icon-shezhi"></i>jquery, slider, web design</li>
+                                                    </ul>
+                                                    <div class="innerbox4content">
+                                                        <p>     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo...   </p>
+                                                    </div>
+                                                    <a href="#" class="morea pull-right">
+                                                        Read More
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+
+                                            <div class="col-md-12 medie medie2">
+                                                <div class="fang fang2">
+                                                    <span class="iconfont icon-tupian">
+                                                    </span>
+                                                </div>
+                                                <div class="mianmedie">
+                                                    <div class="picBox">
+                                                        <img src="img/blog-4.jpg" alt="">
+                                                    </div>
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+
+                                                    </div>
+                                                    <ul class="info">
+                                                        <li><i class="iconfont icon-youxiang"></i>2 Comments</li>
+                                                        <li><i class="iconfont icon-shengri"></i>January 31, 2014</li>
+                                                        <li><i class="iconfont icon-shoucang"></i>by Jane Doe</li>
+                                                        <li><i class="iconfont icon-shezhi"></i>jquery, slider, web design</li>
+                                                    </ul>
+                                                    <div class="innerbox4content">
+                                                        <p>     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo...   </p>
+                                                    </div>
+                                                    <a href="#" class="morea pull-right">
+                                                        Read More
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                            <div class="innerbox animated bounceIn innerbox5">
+                                <div class="innerbox5inner">
+                                    <h1>
+                                        博客 - 我的博客
+                                    </h1>
+                                    <div class="row" >
+                                        <div class="col-md-12">
+                                            <div class="map">
+                                                <div id="allmap"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="row" style="padding: 30px 0">
+                                                <div class="col-md-5">
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+
+                                                    </div>
+                                                    <ul>
+                                                        <li><span><i class="iconfont icon-dizhi"></i>Adress:</span> brown.smith@gmail.com</li>
+                                                        <li><span><i class="iconfont icon-youxiang"></i>Email:</span> brown.smith@gmail.com </li>
+                                                        <li><span><i class="iconfont icon-phone"></i>Phone: </span> brown.smith@gmail.com </li>
+                                                        <li><span><i class="iconfont icon-wangzhan"></i> Website:</span>  brown.smith@gmail.com</li>
+                                                        <li><span><i class="iconfont icon-youxiang"></i>Skype:</span> brown.smith@gmail.com </li>
+                                                        <li><span><i class="iconfont icon-jineng"></i> G. Drive:</span>  brown.smith@gmail.com</li>
+                                                        <li><span><i class="iconfont icon-laba"></i>Skydrive: </span> brown.smith@gmail.com </li>
+                                                    </ul>
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+                                                    </div>
+                                                    <div class="solice">
+                                                        <a href="javascript:;" class="iconfont icon-QQ"></a>
+                                                        <a href="javascript:;" class="iconfont icon-weixin"></a>
+                                                        <a href="javascript:;" class="iconfont icon-youxiang"></a>
+                                                        <a href="javascript:;" class="iconfont icon-phone"></a>
+                                                        <a href="javascript:;" class="iconfont icon-dizhi"></a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-7">
+                                                    <div class="title">
+                                                        <div class="text">Blog Post Gallery</div>
+                                                        <div class="clear"></div>
+                                                    </div>
+                                                    <div class="concat-form">
+                                                        <form action="#">
+                                                            <p class="group-form">
+                                                                <label>Your Name</label>
+                                                                <input type="text" placeholder="name...">
+                                                            </p><p class="group-form">
+                                                                <label>Your Name</label>
+                                                                <input type="text" placeholder="name...">
+                                                            </p><p class="group-form">
+                                                                <label>Your Name</label>
+                                                                <textarea type="text"placeholder="name..." ></textarea>
+                                                            </p>
+                                                            <button>Clear</button><button>SEND MEsges</button>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <ul class="list ">
+                            <li class="active1">
+                                <span></span><i class="iconfont icon-renwu"></i></li>
+                            <li><i class="iconfont icon-jineng"></i></li>
+                            <li><i class="iconfont icon-gongjubao"></i></li>
+                            <li><i class="iconfont icon-laba"></i></li>
+                            <li class="mb20 "><i class="iconfont icon-youxiang"></i></li>
+                            <li><i class="iconfont icon-renwu1"></i></li>
+                            <li><i class="iconfont icon-xiazai"></i></li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="js/jquery.js"></script>
+<script src="js/swiper.min.js"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=VVsmLUVUE1Uo4f9v5qwrGR26T0AoNfps"></script>
+<script src="js/index.js"></script>
+</html>
